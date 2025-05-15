@@ -1,4 +1,4 @@
-**Go-To-Market Strategy: Indus Valley Cosmetics**
+# **Go-To-Market Strategy: Indus Valley Cosmetics**
 
 This project presents a detailed Go-To-Market strategy for Indus Valley Cosmetics, with a special focus on its organic hair color segment. It provides a solutions and growth strategies, grounded in market research, consumer insights, and competitor analysis.
 
